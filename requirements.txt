@@ -2,3 +2,4 @@ flask
 beautifulsoup4
 requests
 googlesearch-python
+gunicorn
